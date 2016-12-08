@@ -1,3 +1,9 @@
+/**
+猜数字a：
+要点:
+(1)控制结构 for if
+(2)格式化输入输出fmt.Printf/Println/Scanf
+*/
 package main
 
 import "fmt"
